@@ -1,21 +1,18 @@
 
 # e-plantShopping
 
-## Project Overview
+## About the Project
 
-e-plantShopping is a React-based e-commerce web application for browsing and purchasing plants online.
-
-The application provides a user-friendly interface where users can explore different plants, view product details, add items to their shopping cart, and manage their cart.
+e-plantShopping is a React-based online plant shopping application that allows users to browse plants and manage their shopping cart.
 
 ## Features
 
-- Browse available plants.
-- View plant details and prices.
+- Browse different plants.
+- View plant names and prices.
 - Add plants to the shopping cart.
-- Increase or decrease product quantities.
+- Increase and decrease product quantities.
 - Manage cart items.
 - Calculate the total shopping cost.
-- Responsive user interface.
 
 ## Technologies Used
 
@@ -24,21 +21,17 @@ The application provides a user-friendly interface where users can explore diffe
 - HTML5
 - CSS3
 - Redux Toolkit
-- React Router
+- Vite
 
-## Repository Name
-
-e-plantShopping
-
-## Installation and Setup
+## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/SofiFaizAhmed/e-plantShopping.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project:
 
    ```bash
    cd e-plantShopping
@@ -50,12 +43,16 @@ e-plantShopping
    npm install
    ```
 
-4. Start the development server:
+4. Start the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
+
+## Repository Name
+
+e-plantShopping
 
 ## Author
 
-Sofi Faiz Ahmed
+SofiFaizAhmed
